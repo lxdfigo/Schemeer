@@ -1,0 +1,2 @@
+;<element\d [attribute[="\dvalue\u"]1]* >[value|self]*\u</element>
+;<element\d [attribute[="\dvalue\u"]1]* \u/>

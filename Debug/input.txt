@@ -1,0 +1,44 @@
+<book title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book>
+<book2 title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book2>
+
+<book title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book>
+<book2 title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book2>
+
+<book title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book>
+<book2 title="facebook" >
+<auther><lxdfigo name="lxd" >
+<age value="16" />
+</lxdfigo></auther>
+<price value="216.0" />
+<date value="2012-2-3" />
+</book2>
